@@ -1,0 +1,20 @@
+enable  : true
+title   : Mollie Pettit
+description: >
+  Mollie is a Data Scientist at Datascope Analytics. Before joining Datascope, Mollie worked as a scientific researcher at Stanford University (where she published a scientific paper in Environmental and Engineering Geoscience) and as a petrophysicist in Abu Dhabi. Mollie has BS degrees in Mathematics and Geology from WVU and a MS in geology from Stanford University. When Mollie is not being a technical nerd, she likes dancing as much as possible (lindy hop, tap, salsa, etc.), going to plays, baking, listening to educational podcasts, and working towards completing her goal of watching all things Trek.
+  <br>
+  <br>
+  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+image   : images/about/about.jpg
+#aboutItem:
+  #- title : Why Choose Us
+   # description: > 
+    #  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+#
+  #- title : What You Get
+   # description: > 
+    #  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+#
+ # - title : Meet The Energy
+  #  description: > 
+   #   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
