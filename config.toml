@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://tlcforcoaches.net/mollie/"
 languageCode = "en-us"
 title = "Mollie Pettit"
 theme = "timer-hugo"
@@ -20,10 +20,10 @@ theme = "timer-hugo"
 #        name    = "Gallery"
 #        url     = "/gallery"
 #        weight  = 4
-#    [[menu.nav]]
-#        name    = "Blog"
-#        url     = "/blog"
-#        weight  = 5
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "/blog"
+        weight  = 5
     [[menu.nav]]
         name    = "Contact"
         url     = "/contact"
@@ -51,9 +51,9 @@ theme = "timer-hugo"
         btnText = "Download More"
         btnURL  = "https://molliepettit.com/"
         [[params.banner.flipText]]
-            title   = "DATA SCIENTIST"
-        [[params.banner.flipText]]
             title   = "data visualizer"
+        [[params.banner.flipText]]
+            title   = "data scientist"
         [[params.banner.flipText]]
             title   = " instructor"
 
@@ -61,47 +61,49 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "Mollie is a Data Scientist at Datascope Analytics. Before joining Datascope, Mollie worked as a scientific researcher at Stanford University (where she published a scientific paper in Environmental and Engineering Geoscience) and as a petrophysicist in Abu Dhabi. Mollie has BS degrees in Mathematics and Geology from WVU and a MS in geology from Stanford University. When Mollie is not being a technical nerd, she likes dancing as much as possible (lindy hop, tap, salsa, etc.), going to plays, baking, listening to educational podcasts, and working towards completing her goal of watching all things Trek."
+        content = "Mollie is a Data Scientist at Datascope Analytics. Before joining Datascope, Mollie worked as a scientific researcher at Stanford University (where she published a scientific paper in Environmental and Engineering Geoscience) and as a petrophysicist in Abu Dhabi. Mollie has BS degrees in Mathematics and Geology from WVU and a MS in geology from Stanford University. When Mollie is not being a technical nerd, she likes dancing as much as possible (lindy hop, tap, salsa, etc.), going to plays, baking, listening to educational podcasts, and working towards completing her goal of watching all things Trek. <br><br><img src='images/clients/logos.png'>"
         image   = "images/about/about.jpg"
-
+	  
     # Call to Action
     [params.cta]
         enable  = true
         title   = "LET'S TALK"
         content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-        btnText = "Contact with me"
+        btnText = "Connect With Me"
         btnURL  = "/contact"
 
     # Portfolio Section On Homepage
     [params.portfolio]
         enable  = true
-        title   = "Latest Projects"
+        title   = "My Latest Projects"
         subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
     # Feature Product Section
     [params.featureProduct]
-        enable  = false
-        title   = "SOME OF OUR FEATURES WORKS"
+        enable  = true
+        title   = "SOME OF MY FEATURED WORKS"
         subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
     # Footer section
     [params.footer]
         customized  = false # Set this variable to true if you customized the design.
-        copyright_owner = "Themefisher"
+        copyright_owner = "Mollie Pettit"
         copyright_since = "2018"
-        [[params.footer.social]]
-            icon = "ion-social-facebook"
-            link = "https://facebook.com"
+    #    [[params.footer.social]]
+    #       icon = "ion-social-facebook"
+#            link = "https://facebook.com"
         [[params.footer.social]]
             icon = "ion-social-twitter"
             link = "https://twitter.com/mollzmp"
         [[params.footer.social]]
             icon = "ion-social-linkedin"
             link = "https://www.linkedin.com/in/molliempettit/"
-        [[params.footer.social]]
-            icon = "ion-social-googleplus"
-            link = "https://googleplus.com"
+#       [[params.footer.social]]
+#           icon = "ion-social-googleplus"
+#            link = "https://googleplus.com"
         [[params.footer.social]]
             icon = "ion-social-github"
-            link = "https://github.com"
+            link = "https://github.com/molliemarie"
     
+	
+	
