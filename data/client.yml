@@ -1,14 +1,10 @@
-enable  : false
-title   : OUR HAPPY CLINETS
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.
+enable  : true
+title   : I've Worked With
+subtitle: 
 clientsLogo:
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
+  - image : images/clients/newyorker1.png
+  - image : images/clients/aclu1.png
+  - image : images/clients/common.png
+  - image : images/clients/metis1.png
+ 
+   
