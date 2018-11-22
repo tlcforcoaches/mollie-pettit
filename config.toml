@@ -68,7 +68,7 @@ theme = "timer-hugo"
     [params.cta]
         enable  = true
         title   = "LET'S TALK"
-        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        content = "hi hi "
         btnText = "Connect With Me"
         btnURL  = "/contact"
 
