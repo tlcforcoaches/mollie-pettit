@@ -61,16 +61,16 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "Mollie is a Data Scientist at Datascope Analytics. Before joining Datascope, Mollie worked as a scientific researcher at Stanford University (where she published a scientific paper in Environmental and Engineering Geoscience) and as a petrophysicist in Abu Dhabi. Mollie has BS degrees in Mathematics and Geology from WVU and a MS in geology from Stanford University. When Mollie is not being a technical nerd, she likes dancing as much as possible (lindy hop, tap, salsa, etc.), going to plays, baking, listening to educational podcasts, and working towards completing her goal of watching all things Trek. <br><br><img src='images/clients/logos.png'>"
+        content = "Mollie is a Data Scientist at Datascope Analytics. Before joining Datascope, Mollie worked as a scientific researcher at Stanford University (where she published a scientific paper in Environmental and Engineering Geoscience) and as a petrophysicist in Abu Dhabi. Mollie has BS degrees in Mathematics and Geology from WVU and a MS in geology from Stanford University. When Mollie is not being a technical nerd, she likes dancing as much as possible (lindy hop, tap, salsa, etc.), going to plays, baking, listening to educational podcasts, and working towards completing her goal of watching all things Trek. <br><br><img src='images/clients/logos.png'> "
         image   = "images/about/about.jpg"
 	  
     # Call to Action
     [params.cta]
         enable  = true
         title   = "LET'S TALK"
-        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        content = "hi hi "
         btnText = "Connect With Me"
-        btnURL  = "/contact"
+        btnURL  = "http://tlcforcoaches.net/mollie/contact"
 
     # Portfolio Section On Homepage
     [params.portfolio]
@@ -105,5 +105,4 @@ theme = "timer-hugo"
             icon = "ion-social-github"
             link = "https://github.com/molliemarie"
     
-	
 	
