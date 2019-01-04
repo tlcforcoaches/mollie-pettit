@@ -302,7 +302,7 @@ a:hover {
 }
 
 #hero-area h1 {
-  font-size: 45px;
+  font-size: 35px;
   line-height: 50px;
   color: #333;
   font-weight: 300;
@@ -402,7 +402,7 @@ a:hover {
 
 #about .block p {
   color: #727272;
-  font-size: 22px;
+  font-size: 20px;
   line-height: 32px;
   margin-bottom: 5px;
 }
@@ -851,33 +851,40 @@ article {
   border: 1px solid #cccccc;
   box-shadow: none;
   transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+   
 }
 
 #contact-section .address, #contact-section .email, #contact-section .phone {
   text-align: center;
-  background: #F7F7F7;
+  background: #FFF;
   padding: 20px 0 40px 0;
   margin-bottom: 20px;
+  visibility:hidden;
+  
 }
 
 #contact-section .address i, #contact-section .email i, #contact-section .phone i {
   font-size: 45px;
   color: #580071;
+  visibility:hidden;
 }
 
 #contact-section .address h5, #contact-section .email h5, #contact-section .phone h5 {
   font-size: 16px;
   line-height: 1.4;
+  visibility:hidden;
 }
 
 #contact-section .address-details {
   padding-top: 70px;
+  visibility:hidden;
 }
 
 #map-canvas {
   width: 100%;
   height: 350px;
   background-color: #CCC;
+  visibility:hidden;
 }
 
 .error {
@@ -1317,3 +1324,62 @@ ul.social-icons li {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+/* DivTable.com */
+/*.divTable{
+	display: table;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1000px;
+	float: none;
+		
+}
+.divTableRow {
+	display: table-row;
+	
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	border: 0px solid #999999;
+	display: table-cell;
+	padding: 3px 10px;
+	vertical-align: top;
+	
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+	text-align: top;
+}
+*/
+
+.divTableCell, .divTableHead {
+width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1000px;
+	float: none;
+	padding-bottom:50px;
+	padding-left:5px;
+	padding-right:5px;
+}
+
+@media (max-width: 320px) { 
+    .divTableCell {
+        width: 100%;
+		padding: 150px;
+    }
+}
