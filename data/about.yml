@@ -1,10 +1,12 @@
 enable  : true
 title   : Mollie Pettit
 description: >
-  Mollie is a Data Scientist at Datascope Analytics. Before joining Datascope, Mollie worked as a scientific researcher at Stanford University (where she published a scientific paper in Environmental and Engineering Geoscience) and as a petrophysicist in Abu Dhabi. Mollie has BS degrees in Mathematics and Geology from WVU and a MS in geology from Stanford University. When Mollie is not being a technical nerd, she likes dancing as much as possible (lindy hop, tap, salsa, etc.), going to plays, baking, listening to educational podcasts, and working towards completing her goal of watching all things Trek.
+ <p>I wear many hats! I tell stories through the creation of <strong>interactive data visualizations</strong>. My data <strong>data science background</strong> is wielded to find interesting and not-so-obvious insights within the data, prepare the data, and be thoughtful about the visual representation of statistal nuances within the data. I am also passionate about <strong>teaching</strong> data visualization and d3.js via <strong>workshops</strong> and <strong>corporate trainings</strong>.</p><br>
+                    <p>In my career, I have worked on projects involving a wide variety of problems including but not limited to interactive data visualizations, exploratory data analysis, corporate data tool creation, course development, trainings / instruction, and ideation. I previously worked as a data scientist/consultant with Datascope Analytics (now part of IDEO) and as a data visualization with d3.js and data science instructor at Metis.</p><br>
+                    <p>I currently focus on creating customized interactive data visualizations as a freelancer for hire. Recent clients include The New Yorker and ACLU-IL.</p><br>
+                    <p>When I am not being a technical nerd I swing dances as much as possible, listens to educational podcasts, and strive to be all-around fabulous.</p>
   
 
-  
  
 image   : images/about/about.jpg
 #aboutItem:
